@@ -1,5 +1,9 @@
-### Hi 👋 I'm Manaswini
-
+### Hi! 👋 I'm Manaswini Katari 😊
+I'm currently pursuing Computer Science Engineering at Kakatiya Institute of Technology and Science, driven by a passion for innovation and technology. </br> </br>
+🌱 I’m currently learning DSA.</br>
+💬 Ask me about C, C++, Python.</br>
+👯 I’m looking to collaborate on machine learning projects.</br>
+📫 How to reach me : katarimanaswini@gmail.com
 <!--
 **katarimanaswini/katarimanaswini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
